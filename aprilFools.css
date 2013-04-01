@@ -14,31 +14,31 @@
   Turn every website upside down
 */
 body {
-  /*-webkit-transform: rotate(180deg);
-  transform: rotate(180deg);*/
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 /*
   blur every website for a split second every 30 seconds
 */
 body {
-  /*-webkit-animation: blur 30s infinite;*/
+  -webkit-animation: blur 30s infinite;
 }
 
 /*
   Spin every Website
 */ 
 body {
-  /*-webkit-animation: spin 5s linear infinite;
-    animation: spin 5s linear infinite;*/
+  -webkit-animation: spin 5s linear infinite;
+    animation: spin 5s linear infinite;
 }
 
 /*
   Flip all images upside down
 */
 img {
-  /*-webkit-transform: rotate(180deg);
-  transform: rotate(180deg);*/
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 /*
@@ -46,22 +46,22 @@ img {
 */
 
 body, p, body p, body div p {
-  /*font-family: 'Comic Sans MS', cursive !important;*/
+  font-family: 'Comic Sans MS', cursive !important;
 }
 
 /*
   Spin all images
 */ 
 img {
-  /*-webkit-animation: spin 1s linear infinite;
-  animation: spin 1s linear infinite;*/
+  -webkit-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
 }
 
 /*
   Hide every 2nd paragraph element on a page
 */
 p:nth-child(2) {
-  /*display:none !important;*/
+  display:none !important;
 }
 
 
@@ -69,7 +69,7 @@ p:nth-child(2) {
   Permanent cursor wait
 */ 
 html {
-  /*cursor:wait !important; */
+  cursor:wait !important; 
 }
 
 /*
@@ -143,7 +143,7 @@ p {
 
 /* HTML PRIDE! */
 html {
-  /*-webkit-animation: rainbow 8s infinite;*/
+  -webkit-animation: rainbow 8s infinite;
 }
 
 /*
@@ -169,11 +169,10 @@ body {
 /*
 	Insert a phrase every paragraph
 */
-/*
+
 p:before {
    content: "YOLO ";
 }
-*/
 
 /* Animations */
 
